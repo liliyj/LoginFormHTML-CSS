@@ -55,6 +55,7 @@ body{
     letter-spacing: 1px;
     outline: none;
     cursor: pointer;
+    background: scroll;
 }
 
 
